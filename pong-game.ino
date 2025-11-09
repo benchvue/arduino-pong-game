@@ -1,7 +1,7 @@
 #include "Arduino_LED_Matrix.h"
 #include <Modulino.h>
 
-// LED 매트릭스 및 버튼 객체 생성
+// Initialize LED matrix and button instances
 ArduinoLEDMatrix matrix;
 ModulinoButtons buttons;
 
